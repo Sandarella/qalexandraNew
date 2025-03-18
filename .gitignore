@@ -1,0 +1,11 @@
+.DS_Store 
+node_modules/
+Cypress/test-results/
+Cypress/blob-report/
+Cypress/cypress-report/
+Cypress/cypress/.cache/
+Cypress/cypress/downloads/
+playwright-report/
+playwright/.cache/
+
+
